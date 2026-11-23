@@ -1,6 +1,7 @@
 # asad-exo.github.io
 
-My personal site: **https://asad-exo.github.io**
+My personal portfolio. View it here:
+**https://asad-exo.github.io**
 
 I'm Asad Shahab, a grad student in computer engineering at NYU Tandon. The site covers what I work on (AI agent security, game theory and deep learning), my main projects, my experience and how to reach me.
 
